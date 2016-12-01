@@ -1,4 +1,4 @@
-package com.bitwiseglobal.traitExample
+package com.polsys.traitExample
 
 /**
   * Created by vaijnathp on 11/30/2016.

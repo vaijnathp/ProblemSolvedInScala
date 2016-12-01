@@ -1,4 +1,4 @@
-package com.bitwiseglobal.caesarCipher
+package com.polsys.caesarCipher
 
 /**
   * Created by vaijnathp on 11/24/2016.

@@ -1,4 +1,4 @@
-package com.bitwiseglobal.screenScraper
+package com.polsys.screenScraper
 
 /**
   * Created by vaijnathp on 11/30/2016.
