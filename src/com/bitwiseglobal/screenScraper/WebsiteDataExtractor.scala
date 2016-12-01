@@ -34,7 +34,7 @@ object WebsiteDataExtractor {
     def reconstruct(string: String,list: List[String]):String = list.mkString(string)
     println("reconstruct: "+reconstruct("vaij",split(",","comma,separated,string")))
 
-    
+
 
     }
 }
